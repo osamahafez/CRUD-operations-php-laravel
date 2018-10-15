@@ -1,0 +1,46 @@
+.navbar-custom {
+    background-color: #333;
+    border-bottom: 3px solid rgb(184, 38, 128);
+    color: #fff;
+    padding: 20px 0px 20px 20px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.container {
+    margin-bottom: 30px;
+}
+
+.btn-start {
+    background-color: #f8fafc;
+    color: rgb(184, 38, 128);
+    margin-top: 50px;
+    padding: 30px 0px;
+    font-size: 30px;
+    border-color: rgb(184, 38, 128);
+}
+
+.btn-start:hover {
+    background-color: rgb(184, 38, 128);
+    border-color: #fff;
+}
+
+.btn-start:focus {
+    box-shadow: 0 0 0 0.2rem rgba(193, 56, 151, 0.5);
+}
+
+
+
+
+.card-custom {
+    margin-bottom: 30px;
+}
+
+.table-header {
+    background-color: #666;
+    color: #fff;
+}
+
+.delete-form {
+    display: inline-block;
+}
