@@ -1,6 +1,6 @@
 # Provision-grp CRUD operations
 
-CRUD operations made using laravel 
+CRUD operations for handling company employees made using laravel 
 
 ## Getting Started
 
