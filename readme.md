@@ -13,4 +13,3 @@ CRUD operations made using laravel
 7. Generate app encryption key using `` php artisan key:generate ``
 8. Generate the database table using `` php artisan migrate `` 
 9. Seed the database (Optional) using `` php artisan db:seed `` 
-10. Have Fun !!
